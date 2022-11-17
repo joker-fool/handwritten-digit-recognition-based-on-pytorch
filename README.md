@@ -15,6 +15,8 @@
 
 六、文件《使用自己写的数字测试.py》中含有利用自己写的手写数字来测试一下模型效果如何的代码，也可用自己写的图片进行测试，但是要提前剪裁好合适的尺寸
 
+七、文件《数学基础.txt》包含了需要了解的深度学习数学基础
+
 English Description
 
 1. pytorch downloads MNIST dataset 2. Neural network model code 3. Training and testing.Use this file without downloading the other three .py files
@@ -30,3 +32,5 @@ English Description
 5. The file "test set test accuracy rate.py" contains the code to complete the test model accuracy rate using the test set
 
 6. The file "Use your own numbers to test.py" contains the code to test the effect of the model by using your own handwritten numbers. You can also use your own pictures to test, but you must cut the appropriate size in advance
+
+7. The file "Mathematical Foundation.txt" contains the mathematical foundation of deep learning that needs to be understood
